@@ -1,0 +1,23 @@
+# System
+Thumbs.db
+
+# Venv
+
+# Configs
+
+# Project files
+*.pyc
+/configs/config.py
+cm_bot.db
+
+# Project dirs
+*/__pycache__/
+/QR_Работников_Time/
+/QR_vCard_development/
+
+# Other files
+Очистка_компил_py3.bat
+
+# User other data
+
+
