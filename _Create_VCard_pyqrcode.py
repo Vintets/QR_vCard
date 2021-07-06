@@ -10,8 +10,8 @@ import pyqrcode
 
 # error     L, M, Q, or H  level can correct up to 7, 15, 25, or 30 percent of the data respectively
 ERROR_LEVEL = 'L'
-VERSION = 21                        # scale QR
-SCALE = 4                           # pixels per element
+VERSION = 22                        # scale QR  (16)
+SCALE = 8                           # pixels per element  (5)
 COLOR_TIME = [13, 58, 103, 255]     # dark blue
 
 # подобранные по умолчанию
